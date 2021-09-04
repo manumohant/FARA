@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Manu",
+    "Age": 10,
+    "Blood": "A+",
+    "Scores": [
+      {
+        "Subject": "Hindi",
+        "Score": 90
+      },
+      {
+        "Subject": "Malayalam",
+        "Score": 80
+      }
+    ]
+  },
+  {
+    "Name": "Joby",
+    "Age": 10,
+    "Blood": "A+",
+    "Scores": [
+      {
+        "Subject": "Hindi",
+        "Score": 90
+      },
+      {
+        "Subject": "Malayalam",
+        "Score": 80
+      }
+    ]
+  }
+]
